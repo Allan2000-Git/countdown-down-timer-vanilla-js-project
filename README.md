@@ -19,4 +19,4 @@ This is a simple countdown timer project built with vanilla JavaScript, HTML, an
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Allan2000-Git/coutndown-down-timer-vanilla-js-project.git
+   git clone https://github.com/Allan2000-Git/countdown-down-timer-vanilla-js-project.git
